@@ -1,4 +1,4 @@
 # apnacollege-demos
 this is my first repository
 <br>
-Author- Rashid
+Author- Rashid Abdullah
